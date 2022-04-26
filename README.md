@@ -11,5 +11,5 @@ eb create -r eu-west-1 -i t1.micro --elb-type application return-skde-no
 ### Deploy (every update)
 In bash:
 ```bash
-eb deploy return-skde.no
+eb deploy return-skde-no
 ```
